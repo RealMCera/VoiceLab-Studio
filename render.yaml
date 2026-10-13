@@ -6,9 +6,9 @@ services:
     healthCheckPath: /api/health
     envVars:
       - key: VOICELAB_DATA_DIR
-        value: /data
+        value: /tmp/voicelab
       - key: VOICELAB_ENV_FILE
-        value: /data/.env
+        value: /tmp/voicelab/.env
       - key: MAX_UPLOAD_MB
         value: "20"
       - key: CORS_ORIGINS
@@ -23,7 +23,3 @@ services:
         sync: false
       - key: KITS_API_KEY
         sync: false
-    disk:
-      name: voicelab-data
-      mountPath: /data
-      sizeGB: 10
