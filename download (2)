@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+apps/api/.env
+apps/api/voice_lab.sqlite3
+apps/api/uploads/
+apps/api/outputs/
+.DS_Store
+*.sqlite3

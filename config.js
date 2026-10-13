@@ -1,0 +1,1 @@
+window.VOICELAB_API_BASE = window.VOICELAB_API_BASE || '';

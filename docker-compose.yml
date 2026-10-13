@@ -1,0 +1,10 @@
+services:
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    env_file: ./apps/api/.env
+    ports: ["8000:8000"]
+    volumes:
+      - ./apps/api/outputs:/workspace/apps/api/outputs
+      - ./apps/api/uploads:/workspace/apps/api/uploads

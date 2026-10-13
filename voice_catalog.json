@@ -1,0 +1,1304 @@
+[
+  {
+    "id": "elevenlabs-iconic-001",
+    "name": "Art Garfunkel",
+    "provider": "ElevenLabs Iconic",
+    "kind": "public_figure",
+    "access": "request_license",
+    "capabilities": [
+      "tts",
+      "project_delivery"
+    ],
+    "description": "Grammy-winning singer and performer.",
+    "source_url": "https://elevenlabs.io/iconic-marketplace",
+    "notes": "Rights-holder approval required before use.",
+    "tier": "iconic"
+  },
+  {
+    "id": "elevenlabs-iconic-002",
+    "name": "Bettie Page",
+    "provider": "ElevenLabs Iconic",
+    "kind": "public_figure",
+    "access": "request_license",
+    "capabilities": [
+      "tts",
+      "project_delivery"
+    ],
+    "description": "1950s pin-up icon.",
+    "source_url": "https://elevenlabs.io/iconic-marketplace",
+    "notes": "Rights-holder approval required before use.",
+    "tier": "iconic"
+  },
+  {
+    "id": "elevenlabs-iconic-003",
+    "name": "Bing Crosby",
+    "provider": "ElevenLabs Iconic",
+    "kind": "public_figure",
+    "access": "request_license",
+    "capabilities": [
+      "tts",
+      "project_delivery"
+    ],
+    "description": "Singer and entertainer.",
+    "source_url": "https://elevenlabs.io/iconic-marketplace",
+    "notes": "Rights-holder approval required before use.",
+    "tier": "iconic"
+  },
+  {
+    "id": "elevenlabs-iconic-004",
+    "name": "Celia Cruz",
+    "provider": "ElevenLabs Iconic",
+    "kind": "public_figure",
+    "access": "request_license",
+    "capabilities": [
+      "tts",
+      "project_delivery"
+    ],
+    "description": "Salsa icon; listed in English and Spanish.",
+    "source_url": "https://elevenlabs.io/iconic-marketplace",
+    "notes": "Rights-holder approval required before use.",
+    "tier": "iconic"
+  },
+  {
+    "id": "elevenlabs-iconic-005",
+    "name": "Chef White",
+    "provider": "ElevenLabs Iconic",
+    "kind": "character",
+    "access": "request_license",
+    "capabilities": [
+      "tts",
+      "project_delivery"
+    ],
+    "description": "Clue character voice.",
+    "source_url": "https://elevenlabs.io/iconic-marketplace",
+    "notes": "Rights-holder approval required before use.",
+    "tier": "iconic"
+  },
+  {
+    "id": "elevenlabs-iconic-006",
+    "name": "Cid Moreira",
+    "provider": "ElevenLabs Iconic",
+    "kind": "public_figure",
+    "access": "request_license",
+    "capabilities": [
+      "tts",
+      "project_delivery"
+    ],
+    "description": "Brazilian journalist and broadcaster.",
+    "source_url": "https://elevenlabs.io/iconic-marketplace",
+    "notes": "Rights-holder approval required before use.",
+    "tier": "iconic"
+  },
+  {
+    "id": "elevenlabs-iconic-007",
+    "name": "Cobra Commander",
+    "provider": "ElevenLabs Iconic",
+    "kind": "character",
+    "access": "request_license",
+    "capabilities": [
+      "tts",
+      "project_delivery"
+    ],
+    "description": "G.I. Joe character voice.",
+    "source_url": "https://elevenlabs.io/iconic-marketplace",
+    "notes": "Rights-holder approval required before use.",
+    "tier": "iconic"
+  },
+  {
+    "id": "elevenlabs-iconic-008",
+    "name": "Colonel Mustard",
+    "provider": "ElevenLabs Iconic",
+    "kind": "character",
+    "access": "request_license",
+    "capabilities": [
+      "tts",
+      "project_delivery"
+    ],
+    "description": "Clue character voice.",
+    "source_url": "https://elevenlabs.io/iconic-marketplace",
+    "notes": "Rights-holder approval required before use.",
+    "tier": "iconic"
+  },
+  {
+    "id": "elevenlabs-iconic-009",
+    "name": "David Hasselhoff",
+    "provider": "ElevenLabs Iconic",
+    "kind": "public_figure",
+    "access": "request_license",
+    "capabilities": [
+      "tts",
+      "project_delivery"
+    ],
+    "description": "Actor and performer.",
+    "source_url": "https://elevenlabs.io/iconic-marketplace",
+    "notes": "Rights-holder approval required before use.",
+    "tier": "iconic"
+  },
+  {
+    "id": "elevenlabs-iconic-010",
+    "name": "Dr. Maya Angelou",
+    "provider": "ElevenLabs Iconic",
+    "kind": "public_figure",
+    "access": "request_license",
+    "capabilities": [
+      "tts",
+      "project_delivery"
+    ],
+    "description": "Poet, memoirist, and public figure.",
+    "source_url": "https://elevenlabs.io/iconic-marketplace",
+    "notes": "Rights-holder approval required before use.",
+    "tier": "iconic"
+  },
+  {
+    "id": "elevenlabs-iconic-011",
+    "name": "Enrique Rocha",
+    "provider": "ElevenLabs Iconic",
+    "kind": "public_figure",
+    "access": "request_license",
+    "capabilities": [
+      "tts",
+      "project_delivery"
+    ],
+    "description": "Mexican actor known for deep-voiced roles.",
+    "source_url": "https://elevenlabs.io/iconic-marketplace",
+    "notes": "Rights-holder approval required before use.",
+    "tier": "iconic"
+  },
+  {
+    "id": "elevenlabs-iconic-012",
+    "name": "Grimlock",
+    "provider": "ElevenLabs Iconic",
+    "kind": "character",
+    "access": "request_license",
+    "capabilities": [
+      "tts",
+      "project_delivery"
+    ],
+    "description": "Transformers character voice.",
+    "source_url": "https://elevenlabs.io/iconic-marketplace",
+    "notes": "Rights-holder approval required before use.",
+    "tier": "iconic"
+  },
+  {
+    "id": "elevenlabs-iconic-013",
+    "name": "J. Robert Oppenheimer",
+    "provider": "ElevenLabs Iconic",
+    "kind": "historical",
+    "access": "request_license",
+    "capabilities": [
+      "tts",
+      "project_delivery"
+    ],
+    "description": "Physicist and historical figure.",
+    "source_url": "https://elevenlabs.io/iconic-marketplace",
+    "notes": "Rights-holder approval required before use.",
+    "tier": "iconic"
+  },
+  {
+    "id": "elevenlabs-iconic-014",
+    "name": "Jackie Mason",
+    "provider": "ElevenLabs Iconic",
+    "kind": "public_figure",
+    "access": "request_license",
+    "capabilities": [
+      "tts",
+      "project_delivery"
+    ],
+    "description": "Comedian and actor.",
+    "source_url": "https://elevenlabs.io/iconic-marketplace",
+    "notes": "Rights-holder approval required before use.",
+    "tier": "iconic"
+  },
+  {
+    "id": "elevenlabs-iconic-015",
+    "name": "Jean Harlow",
+    "provider": "ElevenLabs Iconic",
+    "kind": "public_figure",
+    "access": "request_license",
+    "capabilities": [
+      "tts",
+      "project_delivery"
+    ],
+    "description": "Golden Age Hollywood actress.",
+    "source_url": "https://elevenlabs.io/iconic-marketplace",
+    "notes": "Rights-holder approval required before use.",
+    "tier": "iconic"
+  },
+  {
+    "id": "elevenlabs-iconic-016",
+    "name": "John Facenda",
+    "provider": "ElevenLabs Iconic",
+    "kind": "public_figure",
+    "access": "request_license",
+    "capabilities": [
+      "tts",
+      "project_delivery"
+    ],
+    "description": "Broadcaster and sports narrator.",
+    "source_url": "https://elevenlabs.io/iconic-marketplace",
+    "notes": "Rights-holder approval required before use.",
+    "tier": "iconic"
+  },
+  {
+    "id": "elevenlabs-iconic-017",
+    "name": "John Wayne",
+    "provider": "ElevenLabs Iconic",
+    "kind": "public_figure",
+    "access": "request_license",
+    "capabilities": [
+      "tts",
+      "project_delivery"
+    ],
+    "description": "Actor and western-film icon.",
+    "source_url": "https://elevenlabs.io/iconic-marketplace",
+    "notes": "Rights-holder approval required before use.",
+    "tier": "iconic"
+  },
+  {
+    "id": "elevenlabs-iconic-018",
+    "name": "Judy Garland",
+    "provider": "ElevenLabs Iconic",
+    "kind": "public_figure",
+    "access": "request_license",
+    "capabilities": [
+      "tts",
+      "project_delivery"
+    ],
+    "description": "Singer and actress.",
+    "source_url": "https://elevenlabs.io/iconic-marketplace",
+    "notes": "Rights-holder approval required before use.",
+    "tier": "iconic"
+  },
+  {
+    "id": "elevenlabs-iconic-019",
+    "name": "Lana Turner",
+    "provider": "ElevenLabs Iconic",
+    "kind": "public_figure",
+    "access": "request_license",
+    "capabilities": [
+      "tts",
+      "project_delivery"
+    ],
+    "description": "Golden Age Hollywood actress.",
+    "source_url": "https://elevenlabs.io/iconic-marketplace",
+    "notes": "Rights-holder approval required before use.",
+    "tier": "iconic"
+  },
+  {
+    "id": "elevenlabs-iconic-020",
+    "name": "Mayor Green",
+    "provider": "ElevenLabs Iconic",
+    "kind": "character",
+    "access": "request_license",
+    "capabilities": [
+      "tts",
+      "project_delivery"
+    ],
+    "description": "Clue character voice.",
+    "source_url": "https://elevenlabs.io/iconic-marketplace",
+    "notes": "Rights-holder approval required before use.",
+    "tier": "iconic"
+  },
+  {
+    "id": "elevenlabs-iconic-021",
+    "name": "Megatron",
+    "provider": "ElevenLabs Iconic",
+    "kind": "character",
+    "access": "request_license",
+    "capabilities": [
+      "tts",
+      "project_delivery"
+    ],
+    "description": "Transformers character voice.",
+    "source_url": "https://elevenlabs.io/iconic-marketplace",
+    "notes": "Rights-holder approval required before use.",
+    "tier": "iconic"
+  },
+  {
+    "id": "elevenlabs-iconic-022",
+    "name": "Michael Feinstein",
+    "provider": "ElevenLabs Iconic",
+    "kind": "public_figure",
+    "access": "request_license",
+    "capabilities": [
+      "tts",
+      "project_delivery"
+    ],
+    "description": "Singer and pianist.",
+    "source_url": "https://elevenlabs.io/iconic-marketplace",
+    "notes": "Rights-holder approval required before use.",
+    "tier": "iconic"
+  },
+  {
+    "id": "elevenlabs-iconic-023",
+    "name": "Mickey Rooney",
+    "provider": "ElevenLabs Iconic",
+    "kind": "public_figure",
+    "access": "request_license",
+    "capabilities": [
+      "tts",
+      "project_delivery"
+    ],
+    "description": "Actor and entertainer.",
+    "source_url": "https://elevenlabs.io/iconic-marketplace",
+    "notes": "Rights-holder approval required before use.",
+    "tier": "iconic"
+  },
+  {
+    "id": "elevenlabs-iconic-024",
+    "name": "Miss Scarlett",
+    "provider": "ElevenLabs Iconic",
+    "kind": "character",
+    "access": "request_license",
+    "capabilities": [
+      "tts",
+      "project_delivery"
+    ],
+    "description": "Clue character voice.",
+    "source_url": "https://elevenlabs.io/iconic-marketplace",
+    "notes": "Rights-holder approval required before use.",
+    "tier": "iconic"
+  },
+  {
+    "id": "elevenlabs-iconic-025",
+    "name": "Montgomery Clift",
+    "provider": "ElevenLabs Iconic",
+    "kind": "public_figure",
+    "access": "request_license",
+    "capabilities": [
+      "tts",
+      "project_delivery"
+    ],
+    "description": "Golden Age Hollywood actor.",
+    "source_url": "https://elevenlabs.io/iconic-marketplace",
+    "notes": "Rights-holder approval required before use.",
+    "tier": "iconic"
+  },
+  {
+    "id": "elevenlabs-iconic-026",
+    "name": "Mr. Monopoly",
+    "provider": "ElevenLabs Iconic",
+    "kind": "character",
+    "access": "request_license",
+    "capabilities": [
+      "tts",
+      "project_delivery"
+    ],
+    "description": "Monopoly mascot voice.",
+    "source_url": "https://elevenlabs.io/iconic-marketplace",
+    "notes": "Rights-holder approval required before use.",
+    "tier": "iconic"
+  },
+  {
+    "id": "elevenlabs-iconic-027",
+    "name": "Mr. Potato Head",
+    "provider": "ElevenLabs Iconic",
+    "kind": "character",
+    "access": "request_license",
+    "capabilities": [
+      "tts",
+      "project_delivery"
+    ],
+    "description": "Hasbro character voice.",
+    "source_url": "https://elevenlabs.io/iconic-marketplace",
+    "notes": "Rights-holder approval required before use.",
+    "tier": "iconic"
+  },
+  {
+    "id": "elevenlabs-iconic-028",
+    "name": "Optimus Prime",
+    "provider": "ElevenLabs Iconic",
+    "kind": "character",
+    "access": "request_license",
+    "capabilities": [
+      "tts",
+      "project_delivery"
+    ],
+    "description": "Transformers character voice.",
+    "source_url": "https://elevenlabs.io/iconic-marketplace",
+    "notes": "Rights-holder approval required before use.",
+    "tier": "iconic"
+  },
+  {
+    "id": "elevenlabs-iconic-029",
+    "name": "Professor Plum",
+    "provider": "ElevenLabs Iconic",
+    "kind": "character",
+    "access": "request_license",
+    "capabilities": [
+      "tts",
+      "project_delivery"
+    ],
+    "description": "Clue character voice.",
+    "source_url": "https://elevenlabs.io/iconic-marketplace",
+    "notes": "Rights-holder approval required before use.",
+    "tier": "iconic"
+  },
+  {
+    "id": "elevenlabs-iconic-030",
+    "name": "Ricardo Montalban",
+    "provider": "ElevenLabs Iconic",
+    "kind": "public_figure",
+    "access": "request_license",
+    "capabilities": [
+      "tts",
+      "project_delivery"
+    ],
+    "description": "Actor and television star.",
+    "source_url": "https://elevenlabs.io/iconic-marketplace",
+    "notes": "Rights-holder approval required before use.",
+    "tier": "iconic"
+  },
+  {
+    "id": "elevenlabs-iconic-031",
+    "name": "Richard Feynman",
+    "provider": "ElevenLabs Iconic",
+    "kind": "historical",
+    "access": "request_license",
+    "capabilities": [
+      "tts",
+      "project_delivery"
+    ],
+    "description": "Physicist and historical figure.",
+    "source_url": "https://elevenlabs.io/iconic-marketplace",
+    "notes": "Rights-holder approval required before use.",
+    "tier": "iconic"
+  },
+  {
+    "id": "elevenlabs-iconic-032",
+    "name": "Rock Hudson",
+    "provider": "ElevenLabs Iconic",
+    "kind": "public_figure",
+    "access": "request_license",
+    "capabilities": [
+      "tts",
+      "project_delivery"
+    ],
+    "description": "Golden Age Hollywood actor.",
+    "source_url": "https://elevenlabs.io/iconic-marketplace",
+    "notes": "Rights-holder approval required before use.",
+    "tier": "iconic"
+  },
+  {
+    "id": "elevenlabs-iconic-033",
+    "name": "Sir Laurence Olivier",
+    "provider": "ElevenLabs Iconic",
+    "kind": "public_figure",
+    "access": "request_license",
+    "capabilities": [
+      "tts",
+      "project_delivery"
+    ],
+    "description": "Actor and director.",
+    "source_url": "https://elevenlabs.io/iconic-marketplace",
+    "notes": "Rights-holder approval required before use.",
+    "tier": "iconic"
+  },
+  {
+    "id": "elevenlabs-iconic-034",
+    "name": "Sir Michael Caine",
+    "provider": "ElevenLabs Iconic",
+    "kind": "public_figure",
+    "access": "request_license",
+    "capabilities": [
+      "tts",
+      "project_delivery"
+    ],
+    "description": "British actor.",
+    "source_url": "https://elevenlabs.io/iconic-marketplace",
+    "notes": "Rights-holder approval required before use.",
+    "tier": "iconic"
+  },
+  {
+    "id": "elevenlabs-iconic-035",
+    "name": "Sir Roger Moore",
+    "provider": "ElevenLabs Iconic",
+    "kind": "public_figure",
+    "access": "request_license",
+    "capabilities": [
+      "tts",
+      "project_delivery"
+    ],
+    "description": "Actor known for The Saint and James Bond.",
+    "source_url": "https://elevenlabs.io/iconic-marketplace",
+    "notes": "Rights-holder approval required before use.",
+    "tier": "iconic"
+  },
+  {
+    "id": "elevenlabs-iconic-036",
+    "name": "Solicitor Peacock",
+    "provider": "ElevenLabs Iconic",
+    "kind": "character",
+    "access": "request_license",
+    "capabilities": [
+      "tts",
+      "project_delivery"
+    ],
+    "description": "Clue character voice.",
+    "source_url": "https://elevenlabs.io/iconic-marketplace",
+    "notes": "Rights-holder approval required before use.",
+    "tier": "iconic"
+  },
+  {
+    "id": "elevenlabs-iconic-037",
+    "name": "Stan Lee",
+    "provider": "ElevenLabs Iconic",
+    "kind": "public_figure",
+    "access": "request_license",
+    "capabilities": [
+      "tts",
+      "project_delivery"
+    ],
+    "description": "Comic-book creator and pop-culture icon.",
+    "source_url": "https://elevenlabs.io/iconic-marketplace",
+    "notes": "Rights-holder approval required before use.",
+    "tier": "iconic"
+  },
+  {
+    "id": "elevenlabs-iconic-038",
+    "name": "Starscream",
+    "provider": "ElevenLabs Iconic",
+    "kind": "character",
+    "access": "request_license",
+    "capabilities": [
+      "tts",
+      "project_delivery"
+    ],
+    "description": "Transformers character voice.",
+    "source_url": "https://elevenlabs.io/iconic-marketplace",
+    "notes": "Rights-holder approval required before use.",
+    "tier": "iconic"
+  },
+  {
+    "id": "elevenlabs-iconic-039",
+    "name": "Thomas Edison",
+    "provider": "ElevenLabs Iconic",
+    "kind": "historical",
+    "access": "request_license",
+    "capabilities": [
+      "tts",
+      "project_delivery"
+    ],
+    "description": "Inventor and historical figure.",
+    "source_url": "https://elevenlabs.io/iconic-marketplace",
+    "notes": "Rights-holder approval required before use.",
+    "tier": "iconic"
+  },
+  {
+    "id": "respeecher-040",
+    "name": "Stan Lee",
+    "provider": "Respeecher",
+    "kind": "public_figure",
+    "access": "request_license",
+    "capabilities": [
+      "tts",
+      "speech_to_speech"
+    ],
+    "description": "Celebrity voice offered through Respeecher with estate permission and moderation.",
+    "source_url": "https://www.respeecher.com/voice-actors/library",
+    "notes": "Marketplace voices are described by Respeecher as legally licensed.",
+    "tier": "licensed"
+  },
+  {
+    "id": "respeecher-041",
+    "name": "C. L. Neal",
+    "provider": "Respeecher",
+    "kind": "voice_actor",
+    "access": "provider_account",
+    "capabilities": [
+      "tts",
+      "speech_to_speech"
+    ],
+    "description": "Professional voice talent.",
+    "source_url": "https://www.respeecher.com/voice-actors/library",
+    "notes": "Marketplace voices are described by Respeecher as legally licensed.",
+    "tier": "licensed"
+  },
+  {
+    "id": "respeecher-042",
+    "name": "Chris Butera",
+    "provider": "Respeecher",
+    "kind": "voice_actor",
+    "access": "provider_account",
+    "capabilities": [
+      "tts",
+      "speech_to_speech"
+    ],
+    "description": "Professional voice talent.",
+    "source_url": "https://www.respeecher.com/voice-actors/library",
+    "notes": "Marketplace voices are described by Respeecher as legally licensed.",
+    "tier": "licensed"
+  },
+  {
+    "id": "respeecher-043",
+    "name": "Christian Plasa",
+    "provider": "Respeecher",
+    "kind": "voice_actor",
+    "access": "provider_account",
+    "capabilities": [
+      "tts",
+      "speech_to_speech"
+    ],
+    "description": "Professional voice talent.",
+    "source_url": "https://www.respeecher.com/voice-actors/library",
+    "notes": "Marketplace voices are described by Respeecher as legally licensed.",
+    "tier": "licensed"
+  },
+  {
+    "id": "respeecher-044",
+    "name": "Sacha Criado",
+    "provider": "Respeecher",
+    "kind": "voice_actor",
+    "access": "provider_account",
+    "capabilities": [
+      "tts",
+      "speech_to_speech"
+    ],
+    "description": "Professional voice talent.",
+    "source_url": "https://www.respeecher.com/voice-actors/library",
+    "notes": "Marketplace voices are described by Respeecher as legally licensed.",
+    "tier": "licensed"
+  },
+  {
+    "id": "respeecher-045",
+    "name": "Evelina Alba",
+    "provider": "Respeecher",
+    "kind": "voice_actor",
+    "access": "provider_account",
+    "capabilities": [
+      "tts",
+      "speech_to_speech"
+    ],
+    "description": "Professional voice talent.",
+    "source_url": "https://www.respeecher.com/voice-actors/library",
+    "notes": "Marketplace voices are described by Respeecher as legally licensed.",
+    "tier": "licensed"
+  },
+  {
+    "id": "respeecher-046",
+    "name": "Zaiden Andersson",
+    "provider": "Respeecher",
+    "kind": "voice_actor",
+    "access": "provider_account",
+    "capabilities": [
+      "tts",
+      "speech_to_speech"
+    ],
+    "description": "Professional voice talent.",
+    "source_url": "https://www.respeecher.com/voice-actors/library",
+    "notes": "Marketplace voices are described by Respeecher as legally licensed.",
+    "tier": "licensed"
+  },
+  {
+    "id": "voice-swap-047",
+    "name": "Ayah Marar",
+    "provider": "Voice-Swap",
+    "kind": "artist",
+    "access": "provider_account",
+    "capabilities": [
+      "singing_conversion",
+      "speech_to_speech"
+    ],
+    "description": "Singer; Voice-Swap launch roster.",
+    "source_url": "https://www.voice-swap.ai/our-artists",
+    "notes": "Licensed artist model; commercial exploitation may require additional approval under provider terms.",
+    "tier": "artist"
+  },
+  {
+    "id": "voice-swap-048",
+    "name": "Angie Brown",
+    "provider": "Voice-Swap",
+    "kind": "artist",
+    "access": "provider_account",
+    "capabilities": [
+      "singing_conversion",
+      "speech_to_speech"
+    ],
+    "description": "Singer; Voice-Swap launch roster.",
+    "source_url": "https://www.voice-swap.ai/our-artists",
+    "notes": "Licensed artist model; commercial exploitation may require additional approval under provider terms.",
+    "tier": "artist"
+  },
+  {
+    "id": "voice-swap-049",
+    "name": "Liam Bailey",
+    "provider": "Voice-Swap",
+    "kind": "artist",
+    "access": "provider_account",
+    "capabilities": [
+      "singing_conversion",
+      "speech_to_speech"
+    ],
+    "description": "Singer; Voice-Swap launch roster.",
+    "source_url": "https://www.voice-swap.ai/our-artists",
+    "notes": "Licensed artist model; commercial exploitation may require additional approval under provider terms.",
+    "tier": "artist"
+  },
+  {
+    "id": "voice-swap-050",
+    "name": "Dominique Young Unique",
+    "provider": "Voice-Swap",
+    "kind": "artist",
+    "access": "provider_account",
+    "capabilities": [
+      "singing_conversion",
+      "speech_to_speech"
+    ],
+    "description": "Artist; Voice-Swap launch roster.",
+    "source_url": "https://www.voice-swap.ai/our-artists",
+    "notes": "Licensed artist model; commercial exploitation may require additional approval under provider terms.",
+    "tier": "artist"
+  },
+  {
+    "id": "voice-swap-051",
+    "name": "Ruth Royall",
+    "provider": "Voice-Swap",
+    "kind": "artist",
+    "access": "provider_account",
+    "capabilities": [
+      "singing_conversion",
+      "speech_to_speech"
+    ],
+    "description": "Drum and bass artist/vocalist.",
+    "source_url": "https://www.voice-swap.ai/our-artists",
+    "notes": "Licensed artist model; commercial exploitation may require additional approval under provider terms.",
+    "tier": "artist"
+  },
+  {
+    "id": "voice-swap-052",
+    "name": "Robert Owens",
+    "provider": "Voice-Swap",
+    "kind": "artist",
+    "access": "provider_account",
+    "capabilities": [
+      "singing_conversion",
+      "speech_to_speech"
+    ],
+    "description": "House vocalist.",
+    "source_url": "https://www.voice-swap.ai/our-artists",
+    "notes": "Licensed artist model; commercial exploitation may require additional approval under provider terms.",
+    "tier": "artist"
+  },
+  {
+    "id": "voice-swap-053",
+    "name": "Farley 'Jackmaster' Funk",
+    "provider": "Voice-Swap",
+    "kind": "artist",
+    "access": "provider_account",
+    "capabilities": [
+      "singing_conversion",
+      "speech_to_speech"
+    ],
+    "description": "Chicago house artist.",
+    "source_url": "https://www.voice-swap.ai/our-artists",
+    "notes": "Licensed artist model; commercial exploitation may require additional approval under provider terms.",
+    "tier": "artist"
+  },
+  {
+    "id": "voice-swap-054",
+    "name": "Chuck Roberts",
+    "provider": "Voice-Swap",
+    "kind": "artist",
+    "access": "provider_account",
+    "capabilities": [
+      "singing_conversion",
+      "speech_to_speech"
+    ],
+    "description": "Chicago house vocalist.",
+    "source_url": "https://www.voice-swap.ai/our-artists",
+    "notes": "Licensed artist model; commercial exploitation may require additional approval under provider terms.",
+    "tier": "artist"
+  },
+  {
+    "id": "veritone-voice-055",
+    "name": "Anne Ganguzza",
+    "provider": "Veritone Voice",
+    "kind": "voice_actor",
+    "access": "request_license",
+    "capabilities": [
+      "tts",
+      "speech_to_speech"
+    ],
+    "description": "Recognizable voice-artist approved premium AI voice.",
+    "source_url": "https://www.veritonevoice.com/stock-premium-ai-voices/",
+    "notes": "Premium voice; licensing facilitated by Veritone.",
+    "tier": "premium"
+  },
+  {
+    "id": "veritone-voice-056",
+    "name": "Carin Gilfry",
+    "provider": "Veritone Voice",
+    "kind": "voice_actor",
+    "access": "request_license",
+    "capabilities": [
+      "tts",
+      "speech_to_speech"
+    ],
+    "description": "Recognizable voice-artist approved premium AI voice.",
+    "source_url": "https://www.veritonevoice.com/stock-premium-ai-voices/",
+    "notes": "Premium voice; licensing facilitated by Veritone.",
+    "tier": "premium"
+  },
+  {
+    "id": "veritone-voice-057",
+    "name": "Randy Hahn",
+    "provider": "Veritone Voice",
+    "kind": "voice_actor",
+    "access": "request_license",
+    "capabilities": [
+      "tts",
+      "speech_to_speech"
+    ],
+    "description": "Recognizable voice-artist approved premium AI voice.",
+    "source_url": "https://www.veritonevoice.com/stock-premium-ai-voices/",
+    "notes": "Premium voice; licensing facilitated by Veritone.",
+    "tier": "premium"
+  },
+  {
+    "id": "veritone-voice-058",
+    "name": "Judy Fossum",
+    "provider": "Veritone Voice",
+    "kind": "voice_actor",
+    "access": "request_license",
+    "capabilities": [
+      "tts",
+      "speech_to_speech"
+    ],
+    "description": "Recognizable voice-artist approved premium AI voice.",
+    "source_url": "https://www.veritonevoice.com/stock-premium-ai-voices/",
+    "notes": "Premium voice; licensing facilitated by Veritone.",
+    "tier": "premium"
+  },
+  {
+    "id": "veritone-voice-059",
+    "name": "Terri Nicole",
+    "provider": "Veritone Voice",
+    "kind": "voice_actor",
+    "access": "request_license",
+    "capabilities": [
+      "tts",
+      "speech_to_speech"
+    ],
+    "description": "Recognizable voice-artist approved premium AI voice.",
+    "source_url": "https://www.veritonevoice.com/stock-premium-ai-voices/",
+    "notes": "Premium voice; licensing facilitated by Veritone.",
+    "tier": "premium"
+  },
+  {
+    "id": "veritone-voice-060",
+    "name": "Malik Rashad",
+    "provider": "Veritone Voice",
+    "kind": "voice_actor",
+    "access": "request_license",
+    "capabilities": [
+      "tts",
+      "speech_to_speech"
+    ],
+    "description": "Recognizable voice-artist approved premium AI voice.",
+    "source_url": "https://www.veritonevoice.com/stock-premium-ai-voices/",
+    "notes": "Premium voice; licensing facilitated by Veritone.",
+    "tier": "premium"
+  },
+  {
+    "id": "veritone-voice-061",
+    "name": "Ian Russell",
+    "provider": "Veritone Voice",
+    "kind": "voice_actor",
+    "access": "request_license",
+    "capabilities": [
+      "tts",
+      "speech_to_speech"
+    ],
+    "description": "Recognizable voice-artist approved premium AI voice.",
+    "source_url": "https://www.veritonevoice.com/stock-premium-ai-voices/",
+    "notes": "Premium voice; licensing facilitated by Veritone.",
+    "tier": "premium"
+  },
+  {
+    "id": "veritone-voice-062",
+    "name": "Bev Standing",
+    "provider": "Veritone Voice",
+    "kind": "voice_actor",
+    "access": "request_license",
+    "capabilities": [
+      "tts",
+      "speech_to_speech"
+    ],
+    "description": "Recognizable voice-artist approved premium AI voice.",
+    "source_url": "https://www.veritonevoice.com/stock-premium-ai-voices/",
+    "notes": "Premium voice; licensing facilitated by Veritone.",
+    "tier": "premium"
+  },
+  {
+    "id": "veritone-voice-063",
+    "name": "Ashante Timoll",
+    "provider": "Veritone Voice",
+    "kind": "voice_actor",
+    "access": "request_license",
+    "capabilities": [
+      "tts",
+      "speech_to_speech"
+    ],
+    "description": "Recognizable voice-artist approved premium AI voice.",
+    "source_url": "https://www.veritonevoice.com/stock-premium-ai-voices/",
+    "notes": "Premium voice; licensing facilitated by Veritone.",
+    "tier": "premium"
+  },
+  {
+    "id": "kits-ai-064",
+    "name": "Tee",
+    "provider": "Kits AI",
+    "kind": "verified_artist",
+    "access": "provider_account",
+    "capabilities": [
+      "singing_conversion"
+    ],
+    "description": "Verified community/artist voice in Kits voice library.",
+    "source_url": "https://app.kits.ai/voice-library",
+    "notes": "Kits states verified voices are submitted by real creators and verified by the platform.",
+    "tier": "verified"
+  },
+  {
+    "id": "kits-ai-065",
+    "name": "Ruby",
+    "provider": "Kits AI",
+    "kind": "verified_artist",
+    "access": "provider_account",
+    "capabilities": [
+      "singing_conversion"
+    ],
+    "description": "Verified community/artist voice in Kits voice library.",
+    "source_url": "https://app.kits.ai/voice-library",
+    "notes": "Kits states verified voices are submitted by real creators and verified by the platform.",
+    "tier": "verified"
+  },
+  {
+    "id": "kits-ai-066",
+    "name": "Elowen",
+    "provider": "Kits AI",
+    "kind": "verified_artist",
+    "access": "provider_account",
+    "capabilities": [
+      "singing_conversion"
+    ],
+    "description": "Verified community/artist voice in Kits voice library.",
+    "source_url": "https://app.kits.ai/voice-library",
+    "notes": "Kits states verified voices are submitted by real creators and verified by the platform.",
+    "tier": "verified"
+  },
+  {
+    "id": "kits-ai-067",
+    "name": "Chloe",
+    "provider": "Kits AI",
+    "kind": "verified_artist",
+    "access": "provider_account",
+    "capabilities": [
+      "singing_conversion"
+    ],
+    "description": "Verified community/artist voice in Kits voice library.",
+    "source_url": "https://app.kits.ai/voice-library",
+    "notes": "Kits states verified voices are submitted by real creators and verified by the platform.",
+    "tier": "verified"
+  },
+  {
+    "id": "kits-ai-068",
+    "name": "RamitK2",
+    "provider": "Kits AI",
+    "kind": "verified_artist",
+    "access": "provider_account",
+    "capabilities": [
+      "singing_conversion"
+    ],
+    "description": "Verified community/artist voice in Kits voice library.",
+    "source_url": "https://app.kits.ai/voice-library",
+    "notes": "Kits states verified voices are submitted by real creators and verified by the platform.",
+    "tier": "verified"
+  },
+  {
+    "id": "elevenlabs-069",
+    "name": "ElevenLabs Shared Voice Library",
+    "provider": "ElevenLabs",
+    "kind": "dynamic_library",
+    "access": "provider_account",
+    "capabilities": [
+      "tts"
+    ],
+    "description": "Professional Voice Clones shared by verified human owners.",
+    "source_url": "https://elevenlabs.io/docs/eleven-creative/voices/voice-library",
+    "notes": "Use live sync in this app when ELEVENLABS_API_KEY is configured.",
+    "tier": "dynamic"
+  },
+  {
+    "id": "respeecher-070",
+    "name": "Respeecher Licensed TTS Library",
+    "provider": "Respeecher",
+    "kind": "dynamic_library",
+    "access": "provider_account",
+    "capabilities": [
+      "tts"
+    ],
+    "description": "Licensed professional voice-actor TTS library.",
+    "source_url": "https://space.respeecher.com/docs/quickstart",
+    "notes": "Use live sync when RESPEECHER_API_KEY is configured.",
+    "tier": "dynamic"
+  },
+  {
+    "id": "kits-ai-071",
+    "name": "Kits Royalty-Free Voice Library",
+    "provider": "Kits AI",
+    "kind": "dynamic_library",
+    "access": "provider_account",
+    "capabilities": [
+      "voice_conversion",
+      "live_catalog"
+    ],
+    "description": "Large royalty-free and verified singing-voice library.",
+    "source_url": "https://www.kits.ai/api",
+    "notes": "Live API sync supported by this build with KITS_API_KEY. Voice-model use remains subject to the model-specific Kits license.",
+    "tier": "dynamic"
+  },
+  {
+    "id": "veritone-voice-072",
+    "name": "Veritone Stock Voice Library",
+    "provider": "Veritone Voice",
+    "kind": "dynamic_library",
+    "access": "enterprise",
+    "capabilities": [
+      "tts",
+      "speech_to_speech"
+    ],
+    "description": "300+ stock voices across 150+ languages plus premium voices.",
+    "source_url": "https://www.veritonevoice.com/stock-premium-ai-voices/",
+    "notes": "Enterprise/API access.",
+    "tier": "dynamic"
+  },
+  {
+    "id": "voice-swap-073",
+    "name": "Voice-Swap Public Roster",
+    "provider": "Voice-Swap",
+    "kind": "dynamic_library",
+    "access": "provider_account",
+    "capabilities": [
+      "tts",
+      "singing_conversion",
+      "speech_to_speech"
+    ],
+    "description": "Licensed singing and voiceover roster with public API/MCP access.",
+    "source_url": "https://www.voice-swap.ai/mcp",
+    "notes": "API access requires a Voice-Swap account/authorization.",
+    "tier": "dynamic"
+  },
+  {
+    "id": "speechify-074",
+    "name": "Gwyneth Paltrow",
+    "provider": "Speechify",
+    "kind": "public_figure",
+    "access": "provider_account",
+    "capabilities": [
+      "tts"
+    ],
+    "description": "Actress; listed by Speechify as an exclusive celebrity voice.",
+    "source_url": "https://speechify.com/voice-library/",
+    "notes": "Availability through API should be verified against the voices returned to your Speechify workspace.",
+    "tier": "celebrity"
+  },
+  {
+    "id": "speechify-075",
+    "name": "Snoop Dogg",
+    "provider": "Speechify",
+    "kind": "public_figure",
+    "access": "provider_account",
+    "capabilities": [
+      "tts"
+    ],
+    "description": "Music icon; listed by Speechify as an exclusive celebrity voice.",
+    "source_url": "https://speechify.com/voice-library/",
+    "notes": "Availability through API should be verified against the voices returned to your Speechify workspace.",
+    "tier": "celebrity"
+  },
+  {
+    "id": "speechify-076",
+    "name": "Paris Hilton",
+    "provider": "Speechify",
+    "kind": "public_figure",
+    "access": "provider_account",
+    "capabilities": [
+      "tts"
+    ],
+    "description": "Public figure/performer listed in Speechify celebrity voices.",
+    "source_url": "https://speechify.com/voice-library/",
+    "notes": "Availability through API should be verified against the voices returned to your Speechify workspace.",
+    "tier": "celebrity"
+  },
+  {
+    "id": "speechify-077",
+    "name": "John Rhys-Davies",
+    "provider": "Speechify",
+    "kind": "public_figure",
+    "access": "provider_account",
+    "capabilities": [
+      "tts"
+    ],
+    "description": "Actor listed in Speechify celebrity voices.",
+    "source_url": "https://speechify.com/voice-library/",
+    "notes": "Availability through API should be verified against the voices returned to your Speechify workspace.",
+    "tier": "celebrity"
+  },
+  {
+    "id": "speechify-078",
+    "name": "Ali Abdaal",
+    "provider": "Speechify",
+    "kind": "creator",
+    "access": "provider_account",
+    "capabilities": [
+      "tts"
+    ],
+    "description": "Creator listed in Speechify celebrity voices.",
+    "source_url": "https://speechify.com/voice-library/",
+    "notes": "Availability through API should be verified against the voices returned to your Speechify workspace.",
+    "tier": "celebrity"
+  },
+  {
+    "id": "speechify-079",
+    "name": "Ben Wilson",
+    "provider": "Speechify",
+    "kind": "creator",
+    "access": "provider_account",
+    "capabilities": [
+      "tts"
+    ],
+    "description": "Podcast host listed in Speechify celebrity voices.",
+    "source_url": "https://speechify.com/voice-library/",
+    "notes": "Availability through API should be verified against the voices returned to your Speechify workspace.",
+    "tier": "celebrity"
+  },
+  {
+    "id": "speechify-080",
+    "name": "King Bach",
+    "provider": "Speechify",
+    "kind": "creator",
+    "access": "provider_account",
+    "capabilities": [
+      "tts"
+    ],
+    "description": "Actor/creator listed in Speechify celebrity voices.",
+    "source_url": "https://speechify.com/voice-library/",
+    "notes": "Availability through API should be verified against the voices returned to your Speechify workspace.",
+    "tier": "celebrity"
+  },
+  {
+    "id": "speechify-081",
+    "name": "Juanpa Zurita",
+    "provider": "Speechify",
+    "kind": "creator",
+    "access": "provider_account",
+    "capabilities": [
+      "tts"
+    ],
+    "description": "Content creator listed in Speechify celebrity voices.",
+    "source_url": "https://speechify.com/voice-library/",
+    "notes": "Availability through API should be verified against the voices returned to your Speechify workspace.",
+    "tier": "celebrity"
+  },
+  {
+    "id": "speechify-082",
+    "name": "Speechify Shared Voice Library",
+    "provider": "Speechify",
+    "kind": "dynamic_library",
+    "access": "provider_account",
+    "capabilities": [
+      "tts"
+    ],
+    "description": "Shared catalog exposed by GET /v1/voices.",
+    "source_url": "https://docs.speechify.ai/build/api-reference/v1/voices/get",
+    "notes": "Live sync supported by this build when SPEECHIFY_API_KEY is configured.",
+    "tier": "dynamic"
+  },
+  {
+    "id": "voice-swap-083",
+    "name": "Dave Fennoy",
+    "provider": "Voice-Swap",
+    "kind": "voice_actor",
+    "access": "provider_account",
+    "capabilities": [
+      "tts",
+      "speech_to_speech"
+    ],
+    "description": "Deep, authoritative voice actor featured in Voice-Swap Voiceover Studio.",
+    "source_url": "https://www.voice-swap.ai/",
+    "notes": "Voice-Swap states its models are rights-first/licensed; use is subject to the applicable provider license.",
+    "tier": "licensed"
+  },
+  {
+    "id": "voice-swap-084",
+    "name": "Julie Ann Dean",
+    "provider": "Voice-Swap",
+    "kind": "voice_actor",
+    "access": "provider_account",
+    "capabilities": [
+      "tts",
+      "speech_to_speech"
+    ],
+    "description": "Lighthearted, conversational voice talent featured in Voice-Swap Voiceover Studio.",
+    "source_url": "https://www.voice-swap.ai/",
+    "notes": "Voice-Swap states its models are rights-first/licensed; use is subject to the applicable provider license.",
+    "tier": "licensed"
+  },
+  {
+    "id": "voice-swap-085",
+    "name": "Lindsay Sheppard",
+    "provider": "Voice-Swap",
+    "kind": "voice_actor",
+    "access": "provider_account",
+    "capabilities": [
+      "tts",
+      "speech_to_speech"
+    ],
+    "description": "Versatile, upbeat voice talent featured in Voice-Swap Voiceover Studio.",
+    "source_url": "https://www.voice-swap.ai/",
+    "notes": "Voice-Swap states its models are rights-first/licensed; use is subject to the applicable provider license.",
+    "tier": "licensed"
+  },
+  {
+    "id": "voice-swap-086",
+    "name": "Julia Nem",
+    "provider": "Voice-Swap",
+    "kind": "singer",
+    "access": "provider_account",
+    "capabilities": [
+      "singing_conversion"
+    ],
+    "description": "Voice-Swap Session Singer with rights-managed generated vocals.",
+    "source_url": "https://www.voice-swap.ai/",
+    "notes": "Voice-Swap states its models are rights-first/licensed; use is subject to the applicable provider license.",
+    "tier": "licensed"
+  },
+  {
+    "id": "voice-swap-087",
+    "name": "Julia Veinblat",
+    "provider": "Voice-Swap",
+    "kind": "singer",
+    "access": "provider_account",
+    "capabilities": [
+      "singing_conversion"
+    ],
+    "description": "Voice-Swap Session Singer with rights-managed generated vocals.",
+    "source_url": "https://www.voice-swap.ai/",
+    "notes": "Voice-Swap states its models are rights-first/licensed; use is subject to the applicable provider license.",
+    "tier": "licensed"
+  },
+  {
+    "id": "voice-swap-088",
+    "name": "Anthony Russell",
+    "provider": "Voice-Swap",
+    "kind": "singer",
+    "access": "provider_account",
+    "capabilities": [
+      "singing_conversion"
+    ],
+    "description": "Voice-Swap Session Singer with rights-managed generated vocals.",
+    "source_url": "https://www.voice-swap.ai/",
+    "notes": "Voice-Swap states its models are rights-first/licensed; use is subject to the applicable provider license.",
+    "tier": "licensed"
+  }
+]

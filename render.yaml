@@ -1,0 +1,29 @@
+services:
+  - type: web
+    name: voicelab-api
+    runtime: docker
+    dockerfilePath: ./Dockerfile
+    healthCheckPath: /api/health
+    envVars:
+      - key: VOICELAB_DATA_DIR
+        value: /data
+      - key: VOICELAB_ENV_FILE
+        value: /data/.env
+      - key: MAX_UPLOAD_MB
+        value: "20"
+      - key: CORS_ORIGINS
+        sync: false
+      - key: OPENAI_API_KEY
+        sync: false
+      - key: ELEVENLABS_API_KEY
+        sync: false
+      - key: RESPEECHER_API_KEY
+        sync: false
+      - key: SPEECHIFY_API_KEY
+        sync: false
+      - key: KITS_API_KEY
+        sync: false
+    disk:
+      name: voicelab-data
+      mountPath: /data
+      sizeGB: 10
